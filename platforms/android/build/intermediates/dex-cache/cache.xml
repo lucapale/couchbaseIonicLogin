@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/cbl_collator_so-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f62c76346de40ed8d9c7071207b786c24a02471">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/cbl_collator_so-1.1.0-6a5e11740c0ac57f578f5d33a04b7d031a5753e0.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/couchbase-lite-android-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="75eef4e12e2cafbf02e25273f800c9eb32293fe6">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/couchbase-lite-android-1.1.0-f27e66815e3125410c3c86d9503d34bbfb6c64c0.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/exploded-aar/android.com.phonegap.plugins.facebookconnect/FacebookLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dc53999e6b4c9279bce593d6c030676fced180a8">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/classes-f8bdcc6ea03d4e245e9c863253d46552fb5219a1.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/servlet-2-3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ee3fdda3a13d36e33604881346b479b31bbcb6b7">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/servlet-2-3-a926942cfdd043be5f5bf9f20fd26f68f48c569d.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e72192364283036da582b6ab129d283f519f346">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/classes-be0235d126e0d4be9fa8e8859e95d0056b7ef6e1.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/exploded-aar/android.com.phonegap.plugins.facebookconnect/FacebookLib/unspecified/debug/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/android-support-v4-0681f1d16552579368eef67982eb2f1945351729.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/jackson-databind-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="489b7552dd3322b63f694122d16ce62c21c303b5">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/jackson-databind-2.5.0-955aae8921caf0da9ae5e7d62dd8d16d20a6a607.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/couchbase-lite-java-listener-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e82c507fd49945bc5b23a292823d0ef9de579f94">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/couchbase-lite-java-listener-1.1.0-fa23459e95c9cb752724822c5b31a5e032b5ac95.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/webserver-2-3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3139c2f41e5779ff17733648eb674a11dd5db0ac">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/webserver-2-3-9caf6a58aaf4755f278ce51de12fa4b1befe546b.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/commons-io-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ffdb02f95af1c1a208544e076cea5b8e66e731a">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/commons-io-2.0.1-152dce8c3855da222c654558ed53e7fe76ed60b8.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/couchbase-lite-java-javascript-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3bc656a3c8e7ade9e3b28b74483cd8c32d6ed881">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/couchbase-lite-java-javascript-1.1.0-09a959ad08fc994ed0290fffd6040b18a16ba6f2.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/rhino-1.7R3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3bff1e632c665f8cf2d438f77a9f4d0758277db5">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/rhino-1.7R3-d3d7c0e07e3a3457c69b1dc308f2e578a46173b1.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/jackson-annotations-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/jackson-annotations-2.5.0-984bb3280d09049b8e631d879ab6e338538f97b4.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/jackson-core-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b2ece1bd57ac7b4c315b7505b65ac79cb1da4270">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/jackson-core-2.5.0-764851e81c028e38bc18e19bed332fb82b0cd332.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/exploded-aar/android.com.phonegap.plugins.facebookconnect/FacebookLib/unspecified/debug/libs/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-1ea45227962b0a759667a330a45f496628c58b1c.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/stateless4j-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="128aca4ace585f0b42faa739d0b968a154debb7a">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/stateless4j-2.4.0-b826fe1815166d0dfe18b3fd9a8719fcfabdf6d1.jar" />
+    </item>
+    <item
+        jar="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/libs/couchbase-lite-java-core-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d38732525a19a6d32b353c05dfeff70a9b3361f4">
+        <dex dex="/Users/Luca/Library/Mobile Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/pre-dexed/debug/couchbase-lite-java-core-1.1.0-956f9076f93c5bc42502357ff147421230a64f75.jar" />
+    </item>
+
+</items>

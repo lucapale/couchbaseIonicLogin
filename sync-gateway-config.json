@@ -1,0 +1,33 @@
+{
+    "log": ["CRUD", "REST+", "Access"],
+    "databases": {
+        "todos": {
+            "server": "walrus:",
+            "users": {
+                "GUEST": {"disabled": false, "admin_channels": ["*"]}
+            },
+            "sync": `
+                function(doc, oldDoc) {
+                    // NOTE this function is the same across the iOS, Android, and PhoneGap versions.
+                    if (doc.type == "task") {
+                        if (!doc.list_id) {
+                            throw({forbidden : "items must have a list_id"})
+                        }
+                        channel("task-"+doc.list_id);
+                    } else if (doc.type == "list") {
+                        channel("list-"+doc._id);
+                        if (!doc.owner) {
+                            throw({forbidden : "list must have an owner"})
+                        }
+                        if (oldDoc) {
+                            var oldOwnerName = oldDoc.owner.substring(oldDoc.owner.indexOf(":")+1);
+                            requireUser(oldOwnerName)
+                        }
+                        var ownerName = doc.owner.substring(doc.owner.indexOf(":")+1);
+                        access(ownerName, "list-"+doc._id);
+                    }
+                }
+            `
+        }
+    }
+}

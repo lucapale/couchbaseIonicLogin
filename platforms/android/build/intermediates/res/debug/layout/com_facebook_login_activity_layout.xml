@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <ProgressBar android:indeterminate="true"
+                 android:layout_width="wrap_content"
+                 android:layout_height="50dip"
+                 android:id="@+id/com_facebook_login_activity_progress_bar"
+                 android:layout_centerInParent="true"
+                 android:visibility="gone"
+                 android:indeterminateOnly="true"
+            />
+</RelativeLayout>
+<!-- From: file:/Users/Luca/Library/Mobile%20Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/com.phonegap.plugins.facebookconnect/todoliteionic-FacebookLib/res/layout/com_facebook_login_activity_layout.xml --><!-- From: file:/Users/Luca/Library/Mobile%20Documents/com~apple~CloudDocs/Development/Frameworks/TodoLite-Ionic-master/platforms/android/build/intermediates/exploded-aar/android.com.phonegap.plugins.facebookconnect/FacebookLib/unspecified/debug/res/layout/com_facebook_login_activity_layout.xml -->
